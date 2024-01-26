@@ -12,5 +12,6 @@
             "typ": "1",
             "code": "601012"
         }
-    ]
+    ],
+    "fetch_interval": 5
 }
